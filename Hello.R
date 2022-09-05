@@ -11,6 +11,6 @@
 
 hello <- c("hello", "hi", "hola", "bonjour")
 
-
+Hi <- hello[1]
 
 
