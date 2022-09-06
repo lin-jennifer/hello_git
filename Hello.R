@@ -11,6 +11,7 @@
 
 hello <- c("hello", "hi", "hola", "bonjour")
 
+# Get the frist "hello" from the vector above
 Hi <- hello[1]
 
 
